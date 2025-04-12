@@ -15,7 +15,7 @@ import com.example.dto.RegisterRequest;
 @RestController
 @RequestMapping("/rest/api/auth")
 public class AuthController {
-	
+	// LELELELLOLO
 	@Autowired
 	IAuthService authService;
 	
